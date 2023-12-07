@@ -6,4 +6,5 @@
 - Decrypter.py <br>
 
 # <h1>Resultados</h1>
-<img scr="Imagens\Ransomware.png">
+<img src="Ransomware.png">
+
